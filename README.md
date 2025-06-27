@@ -50,5 +50,5 @@ The project uses SQL queries and process it with Python for cleaning and enrichm
 2. Interactive Dashboards: Google Looker Studio dashboards allow for real-time data examination.  Stakeholders can easily navigate the visualizations.
 3. Suggestions for Customer Targeting: Optimized cash flow and sales conversions by identifying clients for payment follow-ups.
 
-#Outcome
+# Outcome
 By providing stakeholders with interactive visualizations and actionable insights, the initiative supports strategic choices in customer management, sales, and marketing.  Dashboards from Google Looker Studio facilitate data accessibility and interpretation, promoting data-driven strategies for improved corporate results.
